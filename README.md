@@ -41,6 +41,3 @@ A3b!c9D#e7
 - The password length should be at least 4 to ensure a mix of all character types.
 - `random.sample()` ensures no repeating characters within the generated password.
 
-## License
-This project is open-source and available under the MIT License.
-
